@@ -1,2 +1,2 @@
 # node-webp-converter
-Webp Converter made by Node js
+Webp Converter created with Node js
