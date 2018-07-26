@@ -1,0 +1,23 @@
+{
+  "name": "node-webp-converter",
+  "version": "1.0.0",
+  "description": "Webp Converter created with Node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunyong/node-webp-converter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yunyong/node-webp-converter/issues"
+  },
+  "homepage": "https://github.com/yunyong/node-webp-converter#readme",
+  "dependencies": {
+    "imagemin": "^6.0.0",
+    "imagemin-webp": "^4.1.0"
+  }
+}
